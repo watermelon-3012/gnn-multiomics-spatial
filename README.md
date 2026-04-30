@@ -1,0 +1,1 @@
+A novel GNN-based framework for ulti-omics integration of spatial transcriptomics and proteomics data, enabling accurate cell clustering and spatial domain classification, and outperforming existing methods.
